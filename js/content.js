@@ -376,8 +376,7 @@ var COURSE = {
           }
         ]
       }
-    }
-  ],
+    },
 /* ---------------- MODULE 9 ---------------- */
   {
   "id": "M9",
@@ -485,7 +484,7 @@ var COURSE = {
       }
     ]
   }
-}
+  }],
   /* Bài đánh giá cuối khóa: 9 câu, không trùng với câu trong bài kiểm tra từng module. */
   final: {
     id: "FINAL",

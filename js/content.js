@@ -378,7 +378,114 @@ var COURSE = {
       }
     }
   ],
-
+/* ---------------- MODULE 9 ---------------- */
+  {
+  "id": "M9",
+  "title": "Phụ lục 01: Hành vi vi phạm theo nhóm lỗi",
+  "description": "Danh sách đầy đủ 143 hành vi vi phạm kỷ luật lao động phân theo 5 nhóm lỗi (L1-L5). Mỗi nhóm thể hiện mức độ nghiêm trọng khác nhau.",
+  "screens": [
+    {
+      "id": "M9-S01",
+      "type": "text",
+      "title": "Nhóm lỗi L1: Nhắc nhở nội bộ (23 hành vi)",
+      "html": "<p><strong>Mức độ:</strong> Nhẹ nhất</p><p><strong>Xử lý:</strong> Không áp dụng xử lý kỷ luật lao động theo Điều 25 nhưng bị nhắc nhở nội bộ và theo dõi</p><p><strong>Các hành vi L1 bao gồm:</strong></p><ol><li>Không mặc trang phục/đồng phục phù hợp theo quy định</li><li>Đi muộn, về sớm dưới 30 phút/lần (&lt;03 lần/tháng)</li><li>Kéo dài thời gian ăn trưa/nghỉ dưới 30 phút</li><li>Ra ngoài trong giờ làm việc dưới 30 phút</li><li>Không tham gia hoặc muộn các buổi họp nội bộ dưới 30 phút</li><li>Không sắp xếp nơi làm việc (vệ sinh, tài liệu)</li><li>Tụ tập ăn uống, vui chơi trong giờ</li><li>Sai sót bất cẩn trong công việc (chưa gây hậu quả)</li><li>Phát ngôn về Sun Group không chuẩn mực</li><li>Bình luận về vấn đề nội bộ trên mạng xã hội</li><li>Không tuân thủ quy định phát ngôn (chưa gây hậu quả)</li><li>Thiếu trách nhiệm bảo vệ tài sản</li><li>Sử dụng tài sản khi chưa được phép (chưa gây ảnh hưởng)</li><li>Sử dụng máy móc/thiết bị của phòng ban khác</li><li>Làm cản trở hoạt động thiết bị chung (chưa gây hậu quả)</li><li>Tự ý dịch chuyển thiết bị/biển báo</li><li>Bình luận/đùa giỡn về tình dục gây khó chịu</li><li>Nhận xét không phù hợp với ngụ ý tình dục</li><li>Hỏi những câu nhạy cảm về tình dục</li><li>Dùng tiếng động/cử chỉ mời gọi</li><li>Nhìn chằm chằm vào bộ phận tế nhị</li></ol><hr/><p><em>📌 Xem file Phụ lục 01 gốc để danh sách đầy đủ và chi tiết từng hành vi</em></p>",
+      "src": "Phụ lục 01, Nhóm lỗi L1 (23 hành vi)"
+    },
+    {
+      "id": "M9-S02",
+      "type": "text",
+      "title": "Nhóm lỗi L2: Khiển trách (~45 hành vi)",
+      "html": "<p><strong>Mức độ:</strong> Vừa phải</p><p><strong>Xử lý:</strong> Khiển trách (kỷ luật mức L2)</p><p><strong>Các hành vi L2 bao gồm:</strong></p><ul><li>Xúc phạm danh dự/nhân phẩm đồng nghiệp</li><li>Gây mất đoàn kết nội bộ (kích động, chia bè phái)</li><li>Lợi dụng chức vụ để gây áp lực, thiên vị</li><li>Đi muộn/về sớm 30-60 phút (L2) hoặc vượt 01-03 lần/tháng</li><li>Kéo dài thời gian ăn/nghỉ từ 30 phút trở lên</li><li>Ra ngoài 30+ phút mà chưa được phép</li><li>Sử dụng thời gian làm việc cho công việc cá nhân</li><li>Không tham gia hoặc muộn các buổi họp (30+ phút)</li><li>Ngủ gật, thiếu tập trung trong giờ</li><li>Uống bia rượu trong giờ làm việc</li><li>Không phối hợp công việc, không báo cao kịp thời</li><li>Phát hiện lỗi nhưng không báo cáo</li><li>Không tuân thủ quy trình/quy định</li><li>Không cung cấp thông tin đầy đủ</li><li>Không phối hợp với đơn vị khác</li><li>Cung cấp thông tin nội bộ trong phạm vi hạn chế</li><li>Đăng tải thông tin tiêu cực (chưa rộng rãi)</li><li>Vi phạm ứng xử với khách hàng</li><li>Không báo cáo xung đột lợi ích</li><li>Không kiểm kê, bàn giao tài sản đầy đủ</li><li>Không kịp thời báo cáo mất an toàn</li><li>Mang tài sản ra khỏi công ty khi chưa được phép</li><li>Sử dụng tài sản Sun Group sai mục đích (chưa gây thiệt hại lớn)</li><li>Tiết lộ thông tin bảo mật (chưa gây thiệt hại)</li><li>Sửa đổi tài liệu không được phép</li><li>Thay đổi góc quay camera, làm che chắn</li><li>Không tuân thủ quy định thư điện tử</li><li>Thực hiện phỏng vấn với cơ quan truyền thông không được phép</li><li>Không tuân thủ quy định phòng chống cháy nổ</li><li>Không sử dụng thiết bị bảo hộ lao động đúng</li><li>Tự ý sử dụng máy móc không được phép</li><li>Để bản thân/người khác vào tình trạng nguy hiểm</li><li>Tố cáo QRTD sai sự thật</li><li>Phô bày tài liệu khiêu dâm</li><li>Vi phạm từ lần thứ 3 trở lên các hành vi L1 trong 30 ngày</li></ul><hr/><p><em>📌 Xem file Phụ lục 01 gốc để danh sách đầy đủ</em></p>",
+      "src": "Phụ lục 01, Nhóm lỗi L2 (khoảng 45 hành vi)"
+    },
+    {
+      "id": "M9-S03",
+      "type": "text",
+      "title": "Nhóm lỗi L3: Kéo dài nâng lương (~35 hành vi)",
+      "html": "<p><strong>Mức độ:</strong> Nghiêm trọng</p><p><strong>Xử lý:</strong> Kéo dài thời hạn nâng lương không quá 06 tháng</p><p><strong>Các hành vi L3 bao gồm:</strong></p><ul><li>Đi muộn/về sớm vượt quá 04 lần/tháng</li><li>Tự ý nghỉ việc 03-09 ngày/30 ngày hoặc 10-19 ngày/365 ngày</li><li>Ngủ gục trong giờ làm việc (có nguy cơ)</li><li>Hút thuốc lá/thuốc lào/chất gây nghiện</li><li>Gây gỗ, cãi lộn, chửi tục</li><li>Phát hiện lỗi nghiêm trọng nhưng không báo</li><li>Lạm dụng chức vụ vượt thẩm quyền</li><li>Thái độ chống đối lệnh chỉ đạo</li><li>Quản lý không hoàn thành nhiệm vụ</li><li>Dẫn tới cấp dưới vi phạm L3/L4</li><li>Cung cấp thông tin sai sự thật xuyên tạc về Sun Group</li><li>Công khai thông tin nội bộ trên MXH</li><li>Tranh cãi/quát nạt khách hàng</li><li>Không trung thực về lý lịch/tình trạng sức khỏe</li><li>Không trung thực tự đánh giá công việc</li><li>Dung túng bao che gian lận</li><li>Gợi ý/dọa nạt khách hàng để xin tiền</li><li>Vay mượn tiền khách hàng</li><li>Sử dụng trái phép tài sản gây thiệt hại</li><li>Làm mất/hư hỏng tài sản/dữ liệu</li><li>Làm sai lệch thông tin tài sản</li><li>Làm lộ thông tin bảo mật do bất cẩn</li><li>Không khắc phục/báo cáo kịp thời nguy cơ tai nạn</li><li>Không tham gia cấp cứu tai nạn lao động</li><li>Không báo cáo tai nạn lao động kịp thời</li><li>Bình luận xúc phạm về tình dục</li><li>Yêu cầu người khác gửi hình ảnh nhạy cảm</li><li>Liên tục gửi lời mời mang tính cá nhân</li><li>Vi phạm kỷ luật khiển trách mà tái phạm</li></ul><hr/><p><em>📌 Xem file Phụ lục 01 gốc để danh sách đầy đủ</em></p>",
+      "src": "Phụ lục 01, Nhóm lỗi L3 (khoảng 35 hành vi)"
+    },
+    {
+      "id": "M9-S04",
+      "type": "text",
+      "title": "Nhóm lỗi L4: Cách chức (~25 hành vi)",
+      "html": "<p><strong>Mức độ:</strong> Rất nghiêm trọng</p><p><strong>Xử lý:</strong> Cách chức (hạ chức hoặc xóa danh sách cán bộ quản lý)</p><p><strong>Các hành vi L4 bao gồm:</strong></p><ul><li>Tự ý bỏ việc 03-09 ngày/30 ngày hoặc 10-19 ngày/365 ngày</li><li>Tổ chức/tham gia đình công bất hợp pháp</li><li>Truyền bá tài liệu/phim ảnh bị pháp luật nghiêm cấm</li><li>Quản lý không hoàn thành nhiệm vụ → cấp dưới vi phạm L5</li><li>Xúc phạm, vu khống, bịa đặt uy tín Sun Group</li><li>Sử dụng tên/thương hiệu Sun Group trái phép</li><li>Mạo danh đại diện Sun Group</li><li>Xúc phạm giá trị văn hóa Sun Group</li><li>Hăm dọa, đe dọa dùng vũ lực</li><li>Tạo ảnh hưởng để Sun Group hợp tác với công ty liên quan</li><li>Vi phạm quy định quản lý xung đột lợi ích</li><li>Gian lận về thời gian/kết quả làm việc</li><li>Gian lận trong thi cử và tuyển dụng</li><li>Gian lận khen thưởng/đánh giá</li><li>Gian lận thanh quyết toán/giao dịch tài chính</li><li>Giả mạo chữ ký/con dấu/tài liệu</li><li>Cung cấp thông tin sai lệch trong báo cáo</li><li>Nhận khoản tiền khách hàng không báo cáo trong 24h</li><li>Tham gia hoạt động cạnh tranh bất hợp pháp</li><li>Thông đồng với khách hàng gây thiệt hại</li><li>Sử dụng tên Sun Group để trục lợi cá nhân</li><li>Cố ý hủy hoại tài sản</li><li>Lợi dụng quản lý tài sản để trục lợi</li><li>Gây thiệt hại đặc biệt nghiêm trọng cho tài sản</li><li>Xâm nhập vào khu vực cấm/cơ sở dữ liệu</li><li>Mang/chứa chấp vũ khí/vật cấm vào công ty</li><li>Tiếp xúc động chạm gây khó chịu</li><li>Hỗ trợ người khác vi phạm L5</li><li>Trả thù/trù dập người tố cáo</li></ul><hr/><p><em>📌 Xem file Phụ lục 01 gốc để danh sách đầy đủ</em></p>",
+      "src": "Phụ lục 01, Nhóm lỗi L4 (khoảng 25 hành vi)"
+    },
+    {
+      "id": "M9-S05",
+      "type": "text",
+      "title": "Nhóm lỗi L5: Sa thải (10 hành vi)",
+      "html": "<p><strong>Mức độ:</strong> Đặc biệt nghiêm trọng</p><p><strong>Xử lý:</strong> Sa thải (chấm dứt hợp đồng lao động)</p><p><strong>Các hành vi L5 bao gồm:</strong></p><ol><li>Tự ý bỏ việc 05+ ngày/30 ngày hoặc 20+ ngày/365 ngày</li><li>Trộm cắp, tham ô, đánh bạc, sử dụng ma túy tại nơi làm việc</li><li>Lợi dụng chức vụ để trộm cắp/tham nhũng tài sản/bí mật kinh doanh</li><li>Gây thiệt hại đặc biệt nghiêm trọng cho Sun Group/khách hàng</li><li>Tiết lộ bí mật kinh doanh/công nghệ gây thiệt hại</li><li>Gạ gẫm quan hệ tình dục với điều kiện công việc/thăng tiến</li><li>Tấn công tình dục/cưỡng dâm/hiếp dâm</li><li>Vi phạm kỷ luật L3 hoặc L4 mà tái phạm</li><li>Các hành vi vi phạm khác gây thiệt hại >20 tháng lương tối thiểu vùng</li></ol><hr/><p><em>📌 Xem file Phụ lục 01 gốc để danh sách đầy đủ chi tiết mỗi hành vi</em></p>",
+      "src": "Phụ lục 01, Nhóm lỗi L5 (khoảng 10 hành vi)"
+    }
+  ],
+  "quiz": {
+    "id": "M9-Q",
+    "questions": [
+      {
+        "text": "Nhân viên không mặc trang phục đúng quy định. Đây là hành vi L1. Hình thức xử lý là gì?",
+        "options": [
+          "Không áp dụng xử lý kỷ luật, chỉ nhắc nhở nội bộ",
+          "Khiển trách (L2)",
+          "Kéo dài nâng lương (L3)",
+          "Cách chức (L4)"
+        ],
+        "answer": 0,
+        "ok": "Đúng. L1 không áp dụng xử lý kỷ luật lao động theo Điều 25 nhưng bị nhắc nhở nội bộ.",
+        "no": "Nhóm L1 được nhắc nhở nội bộ, không áp dụng xử lý kỷ luật lao động chính thức."
+      },
+      {
+        "text": "Nhân viên đi muộn 45 phút. Nếu chưa vượt quá số lần cho phép, đây là hành vi nào?",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "answer": 1,
+        "ok": "Đúng. Đi muộn từ 30 phút trở lên (nhưng <60 phút) là L2.",
+        "no": "Đi muộn 30-60 phút là hành vi L2 (Khiển trách)."
+      },
+      {
+        "text": "Nhân viên hút thuốc trong giờ làm việc tại khu vực công cộng. Đây là hành vi nào?",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "answer": 2,
+        "ok": "Đúng. Hút thuốc là hành vi L3 gây ảnh hưởng đến vệ sinh và an toàn.",
+        "no": "Hút thuốc là hành vi L3 (Kéo dài nâng lương không quá 6 tháng)."
+      },
+      {
+        "text": "Nhân viên giả mạo chữ ký, con dấu trên tài liệu công ty. Đây là hành vi nào?",
+        "options": [
+          "L2 - Khiển trách",
+          "L3 - Kéo dài nâng lương",
+          "L4 - Cách chức",
+          "L5 - Sa thải"
+        ],
+        "answer": 2,
+        "ok": "Đúng. Giả mạo chữ ký/con dấu là hành vi L4 (Cách chức).",
+        "no": "Giả mạo là hành vi L4 vì đe dọa uy tín công ty và có thể gây hậu quả pháp lý."
+      },
+      {
+        "text": "Nhân viên tiết lộ bí mật kinh doanh cho đối thủ cạnh tranh gây thiệt hại lớn. Hành vi này được xử lý như thế nào?",
+        "options": [
+          "L3 - Kéo dài nâng lương",
+          "L4 - Cách chức",
+          "L5 - Sa thải",
+          "Phạt tiền"
+        ],
+        "answer": 2,
+        "ok": "Đúng. Tiết lộ bí mật kinh doanh gây thiệt hại lớn là L5 (Sa thải).",
+        "no": "Tiết lộ bí mật kinh doanh là hành vi L5 - hình thức xử lý cao nhất là Sa thải."
+      }
+    ]
+  }
+}
   /* Bài đánh giá cuối khóa: 9 câu, không trùng với câu trong bài kiểm tra từng module. */
   final: {
     id: "FINAL",
